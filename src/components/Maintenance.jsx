@@ -36,14 +36,14 @@ const Maintenance = () => {
 
         {/* Text */}
         <h1 className="text-2xl font-bold text-center mt-6">
-          Page Under Maintenance
+          Website is Under Maintenance
         </h1>
 
         <p
           className={`text-sm text-center mt-3 leading-relaxed
             ${dark ? "text-gray-300" : "text-gray-600"}`}
         >
-          We’re improving this page to give you a better experience. Please
+          We’re improving the website to give you a better experience. Please
           check back soon.
         </p>
 
